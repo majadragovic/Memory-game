@@ -1,0 +1,52 @@
+.card{
+  width: 120px;
+  height: 150px;
+  margin-left: 70px;
+  margin-bottom: 20px;
+  border-radius: 7px;
+}
+.fish {
+  background-size: 120px 150px;
+  background-image: url("https://freedesignfile.com/upload/2015/10/Aquarium-with-fish-cartoon-vector-set-09.jpg");
+  display: inline-block;
+}
+.horse {
+  background-size: 120px 150px;
+  background-image: url("https://image.shutterstock.com/image-vector/cute-horse-cartoon-260nw-549078133.jpg");
+  display: inline-block;
+}
+.mouse {
+  background-size: 120px 150px;
+  background-image: url("https://image.shutterstock.com/image-vector/cute-cartoon-mouse-vector-illustration-260nw-98210156.jpg");
+  display: inline-block;
+}
+.chicken {
+  background-size: 120px 150px;
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFmzszONVvVfNQIT5M3hFcwM4t4g7lYncM7_RdgQOGcjvhnL5I");
+  display: inline-block;
+}
+.elephant {
+  background-size: 120px 150px;
+  background-image: url("https://i.pinimg.com/originals/6a/59/7a/6a597afd022abcdbf8811edb0fd791da.png");
+  display: inline-block;
+}
+.bird {
+  background-size: 120px 150px;
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ25TzZ6kjNvRictLbAzHTQ9Zm7OiiPP7OE1oKi_VwFxPMpC2nG");
+  display: inline-block;
+}
+.cat {
+  background-size: 120px 150px;
+  background-image: url("https://us.123rf.com/450wm/dazdraperma/dazdraperma1205/dazdraperma120500018/13708512-illustration-of-cute-cat-wearing-a-red-collar-with-gold-tag-.jpg?ver=6");
+  display: inline-block;
+}
+.dog {
+  background-size: 120px 150px;
+  background-image: url("https://i.pinimg.com/236x/91/09/11/910911ca7de1bce36a5e7d1ca11821e8--cartoon-dog-cute-cartoon.jpg");
+  display: inline-block;
+}
+.background{
+  background-size: 120px 150px;
+  background-image: url("https://previews.123rf.com/images/orcearo/orcearo1212/orcearo121200004/17069555-playing-card-back-red-abstract-floral-pattern-closeup.jpg");
+  display: inline-block;
+}
